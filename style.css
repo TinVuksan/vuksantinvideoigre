@@ -1,0 +1,152 @@
+/*
+Theme Name: Video igre
+Author: Tin Vukšan 
+Description: Projekt iz predmeta CMS sustavi
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: vuv
+*/
+
+body {
+    background-color: rgba(193, 185, 185, 0.91);
+}
+
+.card {
+    background-color:rgba(220, 220, 220, 0.932);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.55);
+    
+}
+.footer {
+    margin-top:3vh;
+}
+.footer a, .footer p{
+    color:rgb(0, 0, 0);
+    font-size:1.3rem;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+
+
+
+.comments-wrapper h2 {
+    font-size:2vw;
+}
+
+.comments-wrapper cite span p {
+    font-size:1vw;
+}
+
+.comments-wrapper p {
+    font-weight: 500;
+}
+
+.nav-links {
+    margin:0 auto;
+}
+
+.naslov {
+    font-weight:700;
+    font-size:3rem;
+}
+
+.recenzija-info {
+    margin-top:0;
+    font-size:1.1rem;
+    font-weight:500;
+    
+}
+
+.igra-row {
+    margin-top:5vh;
+}
+
+.tekst {
+    font-size:1.25rem;
+    width:100%;
+}
+
+.igra_taksonomije {
+    font-weight:500;
+    font-size:1.1rem;
+}
+
+.front-page {
+    background-color: rgba(214, 214, 214, 0.971);
+}
+
+.wp-block-button__link
+{
+    font-size:1.2rem;
+    width:auto;
+}
+.glsr-tag-value p {
+    font-style:italic;
+}
+
+.paginacija {
+    width:fit-content;
+    margin:0 auto;
+    font-size:1.3rem;
+    color:black;
+    font-weight:500;
+    
+}
+
+.paginacija a {
+    color:black;
+}
+
+.pagination a, .pagination span {
+    font-size:1.3rem;
+    color:black;
+    font-weight:500;
+}
+
+.filteri{
+
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+
+}
+.filteri button {
+    margin-top:1.2rem;
+}
+
+.filteri label {
+    font-weight: 500;
+}
+
+.btn-outline-info {
+    font-weight:500;
+}
+
+#filtriraj-naslov{
+    font-weight:500;
+    font-size:1.4rem;
+}
+
+#orderby {
+    background-color: rgb(247, 247, 247);
+    font-weight:500;
+}
+
+#search-form {
+    margin-top:0.5rem;
+}
+
+#search-btn {
+    margin-top:1.7rem;
+}
+
+#searchHelp {
+    font-weight:500;
+}
+
+
+
+
+
+
