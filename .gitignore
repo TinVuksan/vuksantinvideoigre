@@ -1,3 +1,7 @@
 #Unneccessary folders
 assets/
 blog-site-template-master/
+css/*
+
+#Except 
+!css/styles.css
